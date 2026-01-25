@@ -1,0 +1,11 @@
+langgraph-checkpoint-sqlite
+langgraph
+langchain
+langchain_community
+langchain_core
+ddgs
+pydub
+SpeechRecognition
+pipwin
+pyaudio
+langchain_groq 
