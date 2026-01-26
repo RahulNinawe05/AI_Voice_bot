@@ -1,4 +1,3 @@
-langgraph-checkpoint-sqlite
 langgraph
 langchain
 langchain_community
@@ -9,3 +8,7 @@ SpeechRecognition
 pipwin
 pyaudio
 langchain_groq 
+gtts
+gradio
+ffmpeg
+portaudio

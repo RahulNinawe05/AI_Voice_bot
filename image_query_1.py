@@ -8,7 +8,7 @@ load_dotenv()
 
 import base64
 
-with open('ra.jpg','rb') as f:
+with open('image_1.jpg','rb') as f:
     ima_b64 = base64.b64encode(f.read()).decode('utf-8')
 
 from groq import Groq
