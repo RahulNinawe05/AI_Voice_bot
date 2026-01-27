@@ -16,8 +16,8 @@ text = """
 Hello! I am your Medical AI Assistant.
 I can help you with basic medical questions.
 """
-text_to_speech_with_gtts_old(input_text=text, output_filepath="gtts_testing_normal_3.mp3")
-print("File Saved on Explorer. complate!")
+# text_to_speech_with_gtts_old(input_text=text, output_filepath="gtts_testing_normal_3.mp3")
+# print("File Saved on Explorer. complate!")
 
 
 # with autoplay
@@ -53,5 +53,5 @@ input_text = """
 Hello! I am your Medical AI Assistant.
 I can help you with basic medical questions.
 """
-# text_to_speech_with_gtts(input_text=input_text, output_filepath="gtts_testing_autoplay_3.mp3")
-# print("You Autoplay Complate!")
+text_to_speech_with_gtts(input_text=input_text, output_filepath="gtts_testing_autoplay_3.mp3")
+print("You Autoplay Complate!")
