@@ -1,2 +1,13 @@
+# Environment files
 .env
-.venv
+.venv/
+
+# Git internal folder (optional, usually auto-ignored)
+.git/
+
+# Media files
+*.mp3
+*.jpg
+
+# Python Cache
+__pycache
